@@ -1,5 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielEnzoMurai&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEnzoMurai&hide_progress=true)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEnzoMurai&layout=compact&theme=dracula)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   <img align="center" alt="Gabs-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
