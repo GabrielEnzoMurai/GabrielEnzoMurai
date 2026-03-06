@@ -1,7 +1,7 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielEnzoMurai&show_icons=true&theme=dark)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEnzoMurai&layout=compact&theme=dracula)-->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GabrielEnzoMurai" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GabrielEnzoMurai&theme=dark&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
