@@ -1,5 +1,6 @@
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielEnzoMurai&show_icons=true&theme=dark)
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEnzoMurai&layout=compact&theme=dracula)-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Gabriel+Enzo+Murai" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Analista+e+Cientista+de+Dados" alt="Typing SVG" /></a>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GabrielEnzoMurai&theme=dark&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
