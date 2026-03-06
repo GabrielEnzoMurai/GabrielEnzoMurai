@@ -10,11 +10,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Analista+e+Cientista+de+Dados" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GabrielEnzoMurai&theme=dracula&border_radius=5&locale=pt&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=700&card_height=250" alt="GitHub Streak" /></a>
 
-<br><br>
+<br>
 
 <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
 <img alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
