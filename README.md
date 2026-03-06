@@ -12,9 +12,7 @@
 
 <br><br>
 
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=GabrielEnzoMurai&theme=dark&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GabrielEnzoMurai&theme=dracula&border_radius=5&locale=pt&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=700&card_height=250" alt="GitHub Streak" /></a>
 
 <br><br>
 
